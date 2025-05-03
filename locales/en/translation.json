@@ -1,0 +1,81 @@
+{
+  "name": "Shota Sugiura",
+  "introduction": "A software engineer, specializing in backend development of web applications in a Fintech company and a startup operating energy marketplaces. During his academic years, he conducted research on Natural Language Processing using machine learning techniques and multimodal machine learning.",
+  "career": {
+    "enechain": {
+      "organization": "enechain Corporation",
+      "period": "Dec. 2023 -",
+      "role": "Software Engineer",
+      "jobs": []
+    },
+    "merpay": {
+      "organization": "merpay, Inc.",
+      "period": "Apr. 2021 - Nov. 2023",
+      "role": "Software Engineer at Payment Platform Team",
+      "jobs": [
+        {
+          "title": "Development and Operation of Payment Microservices Connecting External Financial Institutions",
+          "description": "Developed and operated microservices connecting with over 100 financial institutions to enable direct debit and fund transfers. Conducted new bank integrations, including JA Bank, improved fault tolerance in payment processing, and automated updates of financial institution data."
+        },
+        {
+          "title": "Zero-Downtime Migration of Legacy Functionality and Database Migration",
+          "description": "Migrated a legacy PHP-based fund transfer system to a new Go microservice, ensuring seamless online migration of bank account information and transaction history. Conducted a phased migration from Cloud SQL (MySQL) to Cloud Spanner to enhance scalability and availability."
+        },
+        {
+          "title": "Development of Virtual Account Issuance Feature",
+          "description": "Developed a feature to temporarily assign virtual bank accounts to users, enabling automated reconciliation and optimization of large-sum deposits and debt settlements."
+        },
+        {
+          "title": "Operation of Merchant Settlement Microservices",
+          "description": "Managed the settlement process for merchant transactions on Merpay, including revenue aggregation, fee deductions, and final balance confirmation."
+        }
+      ]
+    }
+  },
+  "education": {
+    "utokyo2019": {
+      "school": "The University of Tokyo, Graduate School of Information Science and Technology, Creative Informatics",
+      "period": "Apr. 2019 - Mar. 2021",
+      "degree": "Master of Information Science and Technology",
+      "laboratory": "Nakayama Lab.",
+      "research": [
+        "Researched Natural Language Processing, focusing on paraphrase generation using Deep Neural Networks.",
+        "Received the Young Researcher Encouragement Award at the Annual Meeting of the Association for Natural Language Processing (NLP) in March 2021."
+      ]
+    },
+    "utokyo2015": {
+      "school": "The University of Tokyo, Faculty of Engineering, Systems Innovation",
+      "period": "Apr. 2015 - Mar. 2019",
+      "degree": "Bachelor of Engineering",
+      "laboratory": "Konno Lab.",
+      "research": [
+        "Studied Ocean Engineering, focusing on the analysis of hydrate-bearing sediment using Computational Fluid Dynamics.",
+        "Presented a poster at the 2019 AGU Fall Meeting on the effects of hydrate crystal size and distribution on sediment permeability."
+      ]
+    }
+  },
+  "experience": {
+    "mitohadvanced": {
+      "title": "MITOU Advanced Program 2022",
+      "period": "Jul. 2022 - Feb. 2023",
+      "description": "Developed an online try-on feature for E-commerce platforms and tools for creating 3D models of clothing suitable for online try-ons.",
+      "overview": "Project Overview",
+      "mitohadvanced": "MITOU Advanced Program"
+    },
+    "gracia": {
+      "title": "Gracia, Inc.",
+      "period": "Nov. 2018 - Nov. 2019",
+      "description": "Developed the gift EC service 'TANP' and an inquiry chatbot."
+    },
+    "recruit2019": {
+      "title": "Recruit Technologies Co., Ltd.",
+      "period": "Oct. 2019 - Nov. 2019",
+      "description": "Analyzed and developed search engine features for 'Rikunabi NEXT' and 'SUUMO'."
+    },
+    "gree2017": {
+      "title": "GREE, Inc.",
+      "period": "Apr. 2017 - June 2018",
+      "description": "Developed the beauty media service 'ARINE'."
+    }
+  }
+}
