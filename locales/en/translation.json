@@ -1,6 +1,6 @@
 {
   "name": "Shota Sugiura",
-  "introduction": "A software engineer, specializing in backend development of web applications in a Fintech company and a startup operating energy marketplaces. During his academic years, he conducted research on Natural Language Processing using machine learning techniques and multimodal machine learning.",
+  "introduction": "A software engineer ʕ◔ϖ◔ʔ, specializing in backend development of web applications in a Fintech company and a startup operating energy marketplaces. During his academic years, he conducted research on Natural Language Processing using machine learning techniques and multimodal machine learning.",
   "career": {
     "enechain": {
       "organization": "enechain Corporation",
@@ -15,15 +15,15 @@
       "jobs": [
         {
           "title": "Development and Operation of Payment Microservices Connecting External Financial Institutions",
-          "description": "Developed and operated microservices connecting with over 100 financial institutions to enable direct debit and fund transfers. Conducted new bank integrations, including JA Bank, improved fault tolerance in payment processing, and automated updates of financial institution data."
+          "description": "Developed and operated microservices connecting with over 100 financial institutions to enable realtime direct debit and fund transfers. Conducted new bank integrations, including JA Bank, improved fault tolerance in payment processing, and automated updates of financial institution data."
         },
         {
-          "title": "Zero-Downtime Migration of Legacy Functionality and Database Migration",
+          "title": "Zero-Downtime Migration of Legacy Functionality / Database Migration to Cloud Spanner",
           "description": "Migrated a legacy PHP-based fund transfer system to a new Go microservice, ensuring seamless online migration of bank account information and transaction history. Conducted a phased migration from Cloud SQL (MySQL) to Cloud Spanner to enhance scalability and availability."
         },
         {
-          "title": "Development of Virtual Account Issuance Feature",
-          "description": "Developed a feature to temporarily assign virtual bank accounts to users, enabling automated reconciliation and optimization of large-sum deposits and debt settlements."
+          "title": "Development of Virtual Bank Account Issuance Feature",
+          "description": "Developed a feature to temporarily assign virtual bank accounts to users, enabling automated reconciliation and optimization of large-sum deposits and debt collection."
         },
         {
           "title": "Operation of Merchant Settlement Microservices",
